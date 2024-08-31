@@ -1,0 +1,11 @@
+crewai
+composio-crewai
+langchain-openai
+langchain-anthropic
+python-dotenv
+crewai-tools
+streamlit
+openai-whisper
+spotipy
+yt_dlp
+youtube-transcript-api
