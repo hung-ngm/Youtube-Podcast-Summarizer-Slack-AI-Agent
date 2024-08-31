@@ -4,9 +4,9 @@ AI agent that can summarize youtube given its URL and send direct to the Slack c
 
 ## Technology:
 
-crewai
-composio-crewai
-yt_dlp
-youtube-transcript-api
-streamlit
-langchain
+- crewai
+- composio-crewai
+- yt_dlp
+- youtube-transcript-api
+- streamlit
+- langchain
